@@ -54,4 +54,4 @@ Projeto de estudo, adequado como registro de aprendizagem sobre funcoes em Pytho
 
 ## Autoria
 
-Desenvolvido por Michele Santana — Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos — Kalion Tecnologia.
